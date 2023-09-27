@@ -6,7 +6,7 @@
 - The database has 5 tables.
 - Each table has 10 rows.
 
-  # ER Diagram
+  # ER Layout
 
 Entities:
 - Books (book_id, title, author_id, genre, publication_date, price)
