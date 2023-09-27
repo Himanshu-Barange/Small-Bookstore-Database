@@ -1,4 +1,4 @@
-# Small-Bookstore-Database
+# Small-Bookstore-Database-MySQL
 
 - This database is about a small bookstore.
 - It is made small for practicising and showcasing essentials features of the SQL luanguage (MySQL variant).
